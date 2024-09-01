@@ -13,10 +13,13 @@ Points are accrued for each alien destroyed: 10 points for destroying one on the
 At the start of each level, the game waits for Fire to be pressed. Turning the encoder at this time adjusts the display brightness.
 At each level, the delay between alien groups gets shorter and the number of segments per group increases.  The number of groups in a wave decreases to compensate, a little.
 
-[Video](https://youtu.be/kccyrMVi98g)
-
 Note:  
 Holding the Fire button when powering on resets the high score and brightness.  
 Some game details are controlled by defines in CFG.h  
 There is a simple schematic in PINS.h  
+
+[YouTube](https://youtu.be/kccyrMVi98g)  
+[Hackaday](https://hackaday.io/project/197722-segmentassault)  
+[Flickr](https://flic.kr/s/aHBqjBFB9D)  
+
 
